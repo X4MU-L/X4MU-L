@@ -6,7 +6,7 @@ Welcome to my GitHub!!
 - 🧑**Chukwuebuka Samuel Okoli**
 - 📍 Nigeria, Abuja.
 - 👷‍♂️ Formal Banker, Accountant.
-- 👩‍💻 A shift to Software Engineer, AI, Machine Learning, Cyber Security...
+- 👩‍💻 A shift to Software Engineering, AI, Machine Learning, Cyber Security...
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samuelokoli/)
 - ✉ [Email](mailto:okolisamuel21@gmail.com)
 - _I stay learning and avdancing 🎉_ 
