@@ -17,6 +17,7 @@ Welcome to my GitHub!!
 Thanks once again for checking out my Profile, I will be more than Happy to work with you and employ my Knowledge to achieve your goals.
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=x4mu-l&show_icons=true&title_color=ffffff&theme=dracula&icon_color=#7FFF00)
 <!--
 **X4MU-L/X4MU-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
