@@ -2,8 +2,6 @@
 
 Can we build on the Galaxy? 🤔
 
-🔗 [LinkedIn](https://www.linkedin.com/in/samuelokoli/)
-
 ✉ [Email](mailto:okolisamuel21@gmail.com)
 
 _I stay learning and avdancing 🎉_ 
